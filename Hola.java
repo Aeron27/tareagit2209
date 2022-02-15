@@ -1,0 +1,1 @@
+clas Hola{int edad:}
